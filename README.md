@@ -1,5 +1,7 @@
 <h1 align="center">
   بــــسم الـلـه الرحــمــن الرحــيـم
+</h1>
+<h1 align="center">
   🚀 MoshiiGPT — CyberShell Assistant 🧠
 </h1>
 
