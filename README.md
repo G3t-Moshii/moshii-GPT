@@ -2,11 +2,11 @@
   بــــسم الـلـه الرحــمــن الرحــيـم
 </h1>
 <h1 align="center">
-  🚀 MoshiiGPT — CyberShell Assistant 🧠
+  🚀 MoshiiGPT — CyberShell Assistant [EGYPT] 
 </h1>
 
 <p align="center">
-  <img src="moshii-GPT" width="600" alt="Cyber GPT Animation"/>
+  <img src="moshii-GPT" width="800" alt="Cyber GPT Animation"/>
 </p>
 
 <p align="center">
@@ -16,12 +16,10 @@
 </p>
 
 ---
-🎯 Contribution & Roadmap
+## 🎯 Contribution & Roadmap
 
 Multi-provider AI chat
-
 Packet capture and real-time listening
-
 OSINT collection with subdomain extraction
 ---
 ## ✨ Features
@@ -47,14 +45,12 @@ OSINT collection with subdomain extraction
 
 └─# ./moshiigpt
 ---
-### 🔧 Prerequisites
-
+## 🔧 Prerequisites
 - Python 3.9+
 - `nmap`, `tcpdump`, `netcat`, `curl`, `nuclei`, etc.
 
 ---
-Set your API keys in apikeys.json:
-
+## 🔐 Setting Your API Keys :
 {
   "chatgpt": "sk-...",
 
@@ -65,5 +61,34 @@ Set your API keys in apikeys.json:
   "virustotal": "VT-..."
 }
 ---
+## You can obtain these keys from:
 
- <h2 dir="rtl" align="right">📬 Contact Me</h2> <p align="center"> <a href="https://s3.us-east-1.amazonaws.com/moshii.com/portfolio.html"> <img src="https://img.shields.io/badge/Contact%20Me-Portfolio-blue?style=for-the-badge&logo=github" alt="Contact Me"> </a> </p> ``` 
+    OpenAI: https://platform.openai.com/account/api-keys
+
+    DeepSeek: https://platform.deepseek.com
+
+    Together: https://platform.together.xyz
+
+    VirusTotal: https://www.virustotal.com/gui/join-us
+---
+🧪 Features & Usage
+✨ AI Chat Terminal
+
+chat --chatgpt Describe the scanning phase in pentesting
+chat --deepseek What is AV evasion?
+chat --together Explain buffer overflow
+---
+## 🌐 OSINT & Network Tools
+  osint domain.com
+## Start and stop packet captures:
+osint domain.com
+start record 192.168.1.10 http
+stop record 192.168.1.10
+show recordings
+## Listen for connections:
+listen eth0 9090
+## Scan Hash Files Using VirusTotal :
+vt hashfile
+---
+
+ <h2 dir="rtl" align="left">📬 Contact Me</h2> <p align="center"> <a href="https://s3.us-east-1.amazonaws.com/moshii.com/portfolio.html"> <img src="https://img.shields.io/badge/Contact%20Me-Portfolio-blue?style=for-the-badge&logo=github" alt="Contact Me"> </a> </p> ``` 
