@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmY4a3Z5NnJnbGE3Z25mZmR6dDRrMmR5NjNzMm1mYXk5OGF5ajFzbCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oriO0OEd9QIDdllqo/giphy.gif" width="600" alt="Cyber GPT Animation"/>
+  <img src="0e4d415d-d386-437c-8220-e2f42ba7fab5.jpg" width="600" alt="Cyber GPT Animation"/>
 </p>
 
 <p align="center">
