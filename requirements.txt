@@ -1,0 +1,26 @@
+# Core AI APIs
+openai>=1.2.0
+requests
+together
+python-dotenv
+
+# WHOIS and OSINT tools
+python-whois
+dnspython
+
+# Terminal enhancements
+termcolor
+colorama
+
+# Network Tools
+scapy
+netifaces
+python-nmap
+# Packet capture parsing (optional)
+pyshark
+
+# Optional JSON prettifier
+rich
+
+# To make CLI smoother
+prompt-toolkit

@@ -1,0 +1,7 @@
+#!/bin/bash
+
+# Get the absolute path to the directory where this script is installed
+DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
+
+# Run the main.py script
+python3 "$DIR/main.py" "$@"
