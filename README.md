@@ -57,9 +57,13 @@ Set your API keys in apikeys.json:
 
 {
   "chatgpt": "sk-...",
+
   "deepseek": "sk-...",
+  
   "together": "sk-...",
+  
   "virustotal": "VT-..."
 }
 ---
 
+ <h2 dir="rtl" align="right">📬 Contact Me</h2> <p align="center"> <a href="https://s3.us-east-1.amazonaws.com/moshii.com/portfolio.html"> <img src="https://img.shields.io/badge/Contact%20Me-Portfolio-blue?style=for-the-badge&logo=github" alt="Contact Me"> </a> </p> ``` 
