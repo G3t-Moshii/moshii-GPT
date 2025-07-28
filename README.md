@@ -60,6 +60,7 @@ OSINT collection with subdomain extraction
   
   "virustotal": "VT-..."
 }
+
 ---
 ## You can obtain these keys from:
 
@@ -74,9 +75,9 @@ OSINT collection with subdomain extraction
 🧪 Features & Usage
 ✨ AI Chat Terminal
 
-chat --chatgpt Describe the scanning phase in pentesting
-chat --deepseek What is AV evasion?
-chat --together Explain buffer overflow
+- chat --chatgpt Describe the scanning phase in pentesting
+- chat --deepseek What is AV evasion?
+- chat --together Explain buffer overflow
 ---
 ## 🌐 OSINT & Network Tools
   osint domain.com
