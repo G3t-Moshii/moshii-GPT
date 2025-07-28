@@ -86,7 +86,7 @@ vt hashfile
 ---
 ### 📺 Video on YouTube :
 
-[![Watch Full Video](banner.jpg)](https://youtu.be/uCELJLwFfhk)
+[![Watch Full Video](banner.png)](https://youtu.be/uCELJLwFfhk)
 
 ---
 
