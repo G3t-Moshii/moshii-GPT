@@ -83,6 +83,10 @@ OSINT collection with subdomain extraction
 listen eth0 9090
 ## Scan Hash Files Using VirusTotal :
 vt hashfile
+---
+### 📺 Video on YouTube :
+
+[![Watch Full Video](https://img.youtube.com/vi/VIDEO_ID/hqdefault.jpg)](https://youtu.be/uCELJLwFfhk)
 
 ---
 
