@@ -38,9 +38,13 @@ OSINT collection with subdomain extraction
 
 ## ⚙️ Installation
 └─# git clone https://github.com/G3t-Moshii/moshii-GPT.git
+
 └─# cd moshii-GPT
+
 └─# pip install -r requirements.txt
+
 └─# chmod +x moshiigpt
+
 └─# ./moshiigpt
 ---
 ### 🔧 Prerequisites
