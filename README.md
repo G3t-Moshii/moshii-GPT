@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="moshii-GPT.jpg" width="600" alt="Cyber GPT Animation"/>
+  <img src="moshii-GPT" width="600" alt="Cyber GPT Animation"/>
 </p>
 
 <p align="center">
