@@ -75,10 +75,10 @@ OSINT collection with subdomain extraction
 ## 🌐 OSINT & Network Tools
   osint domain.com
 ## Start and stop packet captures:
-osint domain.com
-start record 192.168.1.10 http
-stop record 192.168.1.10
-show recordings
+- osint domain.com
+- start record 192.168.1.10 http
+- stop record 192.168.1.10
+- show recordings [Saved in /Logs Folder]
 ## Listen for connections:
 listen eth0 9090
 ## Scan Hash Files Using VirusTotal :
