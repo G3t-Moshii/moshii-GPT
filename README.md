@@ -35,15 +35,11 @@ OSINT collection with subdomain extraction
 ---
 
 ## ⚙️ Installation
-└─# git clone https://github.com/G3t-Moshii/moshii-GPT.git
-
-└─# cd moshii-GPT
-
-└─# pip install -r requirements.txt
-
-└─# chmod +x moshiigpt
-
-└─# ./moshiigpt
+- └─# git clone https://github.com/G3t-Moshii/moshii-GPT.git
+- └─# cd moshii-GPT
+- └─# pip install -r requirements.txt
+- └─# chmod +x moshiigpt
+- └─# ./moshiigpt
 ---
 ## 🔧 Prerequisites
 - Python 3.9+
@@ -63,14 +59,11 @@ OSINT collection with subdomain extraction
 
 ---
 ## You can obtain these keys from:
+-  OpenAI: https://platform.openai.com/account/api-keys
+- DeepSeek: https://platform.deepseek.com
+- Together: https://platform.together.xyz
+- VirusTotal: https://www.virustotal.com/gui/join-us
 
-    OpenAI: https://platform.openai.com/account/api-keys
-
-    DeepSeek: https://platform.deepseek.com
-
-    Together: https://platform.together.xyz
-
-    VirusTotal: https://www.virustotal.com/gui/join-us
 ---
 🧪 Features & Usage
 ✨ AI Chat Terminal
@@ -90,6 +83,7 @@ show recordings
 listen eth0 9090
 ## Scan Hash Files Using VirusTotal :
 vt hashfile
+
 ---
 
  <h2 dir="rtl" align="left">📬 Contact Me</h2> <p align="center"> <a href="https://s3.us-east-1.amazonaws.com/moshii.com/portfolio.html"> <img src="https://img.shields.io/badge/Contact%20Me-Portfolio-blue?style=for-the-badge&logo=github" alt="Contact Me"> </a> </p> ``` 
