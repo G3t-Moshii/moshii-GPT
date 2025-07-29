@@ -61,7 +61,7 @@ OSINT collection with subdomain extraction
 ## You can obtain these keys from:
 -  OpenAI: https://platform.openai.com/account/api-keys
 - DeepSeek: https://platform.deepseek.com
-- Together: https://platform.together.xyz
+- Together: https://www.together.ai/
 - VirusTotal: https://www.virustotal.com/gui/join-us
 
 ---
